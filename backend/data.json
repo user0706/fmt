@@ -13,9 +13,10 @@
         ]
     },
     {
-        "question": ["I need space"],
+        "question": ["I need space", "I think we need a break"],
         "answer": [
-            {"response": "Get away from me", "description": "We're probably about to break up."}
+            {"response": "Get away from me", "description": "We're probably about to break up."},
+            {"response": "Get away from me", "description": "I mean a break from the relationship forever."}
         ]
     },
     {
@@ -55,15 +56,17 @@
         ]
     },
     {
-        "question": ["Nothing"],
+        "question": ["Nothing", "Nothing’s wrong"],
         "answer": [
-            {"response": "There is something wrong", "description": "Did you seriously ask me, “What's wrong?” As if you don't know. Everything is wrong. Everything. Be afraid. Be very afraid."}
+            {"response": "There is something wrong", "description": "Did you seriously ask me, “What's wrong?” As if you don't know. Everything is wrong. Everything. Be afraid. Be very afraid."},
+            {"response": "There is something wrong", "description": "You did something, and I am furious."}
         ]
     },
     {
         "question": ["Whatever"],
         "answer": [
-            {"response": "We're not done yet", "description": "You have won this round, but I refuse to concede, so I'm dismissing that last point you made, and we shall never speak of this again."}
+            {"response": "We're not done yet", "description": "You have won this round, but I refuse to concede, so I'm dismissing that last point you made, and we shall never speak of this again."},
+            {"response": "Go to hell", "description": "I have no more words for you. It’s just not worth it."}
         ]
     },
     {
@@ -87,61 +90,198 @@
     {
         "question": ["That guy is hot"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "You relaxed a little in the relationship", "description": "I think you’re taking me for granted and/or you’re starting to let yourself go a little, so I’m lighting a little fire under your ass."}
         ]
     },
     {
-        "question": [""],
+        "question": ["Sense of humor is the most important thing to me"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "But I’ll settle for that guy with the six-pack and giant dong", "description": ""}
         ]
     },
     {
-        "question": [""],
+        "question": ["Let’s take it slow"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "You are just one of my options", "description": "I’ve got at least one other guy on a string right now, and I haven’t decided yet which one of you a like more."}
         ]
     },
     {
-        "question": [""],
+        "question": ["I’m sorry"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "I am sorry but I am admitting fault in any way", "description": "I am empathizing with you for something shitty that you went through. This does not mean I am admitting fault in any way."}
         ]
     },
     {
-        "question": [""],
+        "question": ["I’m tired"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "I don't want you around me", "description": "I don’t want you anywhere near me tonight. I’ll be going to bed soon. After that, feel free to go to town on yourself. Just leave me out of it."}
         ]
     },
     {
-        "question": [""],
+        "question": ["What did you say"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "Think again", "description": "I just gave you a get-out-of-jail-free card. It’s up to you to rephrase that stupid thing you just said to avoid a huge fight."},
+            {"response": "Think again", "description": "I heard you clearly but you might want to rephrase your statement’."}
         ]
     },
     {
-        "question": [""],
+        "question": ["I’m really busy right now"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "Leave me alone", "description": "I don’t want to date you. Please stop calling me."}
         ]
     },
     {
-        "question": [""],
+        "question": ["I’m not mad", "I’m not mad at you"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "I’m mad", "description": "She really means she is mad at you."}
         ]
     },
     {
-        "question": [""],
+        "question": ["Do you think she’s pretty"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "Tell me I’m pretty", "description": "Tell me I’m pretty. And you get bonus points if you don’t even look at her before you answer."}
         ]
     },
     {
-        "question": [""],
+        "question": ["Let’s get a dog"],
         "answer": [
-            {"response": "", "description": ""}
+            {"response": "I want to have babies", "description": "I want to have babies, but I don’t want to scare you off. However, based on your answer, I will know your level of commitment."}
+        ]
+    },
+    {
+        "question": ["Don’t worry about it"],
+        "answer": [
+            {"response": "I can’t count on you for anything", "description": "I’ve asked you five times to fix the f*** thing and you still haven’t done it? I can’t count on you for anything."}
+        ]
+    },
+    {
+        "question": ["Maybe", "We’ll see"],
+        "answer": [
+            {"response": "No", "description": "They are honestly saying no."},
+            {"response": "No", "description": "They really mean No."}
+        ]
+    },
+    {
+        "question": ["Yes"],
+        "answer": [
+            {"response": "Probably no", "description": "Yes. Or maybe. But probably no."},
+            {"response": "Probably no", "description": "Yes, or no or maybe. You have to read the body language and situation."}
+        ]
+    },
+    {
+        "question": ["No"],
+        "answer": [
+            {"response": "This one’s not open to interpretation", "description": "This one’s not open to interpretation. Always, always, always assume that when you hear this word, she means what she’s saying, even if she doesn’t. If you get it wrong, that’s on her, not you."}
+        ]
+    },
+    {
+        "question": ["Seriously"],
+        "answer": [
+            {"response": "You should probably rethink what you just said", "description": ""}
+        ]
+    },
+    {
+        "question": ["Go ahead"],
+        "answer": [
+            {"response": "Try me. I dare you to", "description": ""}
+        ]
+    },
+    {
+        "question": ["That’s okay", "I’m okay"],
+        "answer": [
+            {"response": "I'm mad at you", "description": "Not okay. I'm mad at you."}
+        ]
+    },
+    {
+        "question": ["Wow"],
+        "answer": [
+            {"response": "I'm simply amazed that you could be so stupid or inconsiderate", "description": ""}
+        ]
+    },
+    {
+        "question": ["Are you really going to wear that"],
+        "answer": [
+            {"response": "You won't wear that", "description": "You are not wearing that. Go and change. Period."}
+        ]
+    },
+    {
+        "question": ["Do you remember what day it is today"],
+        "answer": [
+            {"response": "Remember what you forgot", "description": "Today is my birthday/our anniversary and you forgot"}
+        ]
+    },
+    {
+        "question": ["It’s your decision"],
+        "answer": [
+            {"response": "No it’s not your decision", "description": "No it’s not. You had better not make that decision on your own.. You had better not make that decision on your own."}
+        ]
+    },
+    {
+        "question": ["No, you should go without me"],
+        "answer": [
+            {"response": "Don't even try to go without me", "description": "Absolutely not. Don’t step out of this house."}
+        ]
+    },
+    {
+        "question": ["So where do you see this relationship going"],
+        "answer": [
+            {"response": "Ring me", "description": "I want to take this relationship to the next level. I want a commitment"}
+        ]
+    },
+    {
+        "question": ["I like your friends but…"],
+        "answer": [
+            {"response": "I really don't like your friends", "description": ""}
+        ]
+    },
+    {
+        "question": ["You don’t need to get me anything"],
+        "answer": [
+            {"response": "You need give me something", "description": "You don’t NEED to, but you probably should, and it had better heartfelt."}
+        ]
+    },
+    {
+        "question": ["So why did you and your ex-girlfriend break up"],
+        "answer": [
+            {"response": "I’m trying to figure out if you’re a cheater or if there’s any other thing wrong with you", "description": ""}
+        ]
+    },
+    {
+        "question": ["We can still be friends"],
+        "answer": [
+            {"response": "We are done", "description": "I meant you will be a friend that they’ll never talk to again. So not a friend at all."}
+        ]
+    },
+    {
+        "question": ["It’s not you, it’s me"],
+        "answer": [
+            {"response": "It’s definitely you", "description": "It’s definitely you. You are the problem."}
+        ]
+    },
+    {
+        "question": ["I’m not looking to date anyone right now"],
+        "answer": [
+            {"response": "I wont looking to date YOU", "description": ""}
+        ]
+    },
+    {
+        "question": ["I’ve just been so busy"],
+        "answer": [
+            {"response": "I just don’t have time for you", "description": ""}
+        ]
+    },
+    {
+        "question": ["I'm resting"],
+        "answer": [
+            {"response": "I don't give a f*** about you now", "description": ""},
+            {"response": "Leave me alone", "description": ""},
+            {"response": "I don't care about you now", "description": ""}
+        ]
+    },
+    {
+        "question": ["Thanks a lot"],
+        "answer": [
+            {"response": "I'm mad at you", "description": "It doesn’t really mean thank you, you probably didn’t do something right so she is mad at you."}
         ]
     }
  ]   
