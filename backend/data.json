@@ -1,0 +1,148 @@
+{
+ "data": [
+    {
+        "question": ["Fine"],
+        "answer": [
+            {"response": "Not fine", "description": "The opposite of fine. This just means that the discussion is over."}
+        ]
+    },
+    {
+        "question": ["Do whatever you want"],
+        "answer": [
+            {"response": "This is a test of your judgment", "description": "I'm not going to tell you if I think it's okay or not to do this thing. You should know enough about me by now to know if I'm okay with it. Which I'm not, by the way. If you do this, we are through."}
+        ]
+    },
+    {
+        "question": ["I need space"],
+        "answer": [
+            {"response": "Get away from me", "description": "We're probably about to break up."}
+        ]
+    },
+    {
+        "question": ["Are you seeing anyone"],
+        "answer": [
+            {"response": "I'm interested, but I don't want to waste any more energy on you if you've already got someone in your life", "description": "I'm interested, but I don't want to waste any more energy on you if you've already got someone in your life. If you do, be honest right now. If you don't, ask me for my goddamn number already."}
+        ]
+    },
+    {
+        "question": ["I'm almost ready"],
+        "answer": [
+            {"response": "I'll be ready when I'm ready", "description": "Could be 10 minutes, could be an hour. Find something else to do."}
+        ]
+    },
+    {
+        "question": ["You don't have to, but…"],
+        "answer": [
+            {"response": "You have to", "description": "If you don't you're going to be single very soon."}
+        ]
+    },
+    {
+        "question": ["We need to talk"],
+        "answer": [
+            {"response": "I need to talk. You need to listen.", "description": ""}
+        ]
+    },
+    {
+        "question": ["We'll talk about this later"],
+        "answer": [
+            {"response": "I'm so furious with you that I can't think straight", "description": "I need more time to gather ammunition and/or think about what the fuck I'm still doing with you."}
+        ]
+    },
+    {
+        "question": ["It's pretty"],
+        "answer": [
+            {"response": "Naah, it's ok", "description": "Thank you for the gift. It's the thought that counts. But I'm going to exchange this for something I actually like."}
+        ]
+    },
+    {
+        "question": ["Nothing"],
+        "answer": [
+            {"response": "There is something wrong", "description": "Did you seriously ask me, “What's wrong?” As if you don't know. Everything is wrong. Everything. Be afraid. Be very afraid."}
+        ]
+    },
+    {
+        "question": ["Whatever"],
+        "answer": [
+            {"response": "We're not done yet", "description": "You have won this round, but I refuse to concede, so I'm dismissing that last point you made, and we shall never speak of this again."}
+        ]
+    },
+    {
+        "question": ["I forgive you"],
+        "answer": [
+            {"response": "I can live with what you've done. But...", "description": "I've decided I can live with what you've done. But you should know that I'm going to use it against you for the rest of your life."}
+        ]
+    },
+    {
+        "question": ["Does this make me look fat"],
+        "answer": [
+            {"response": "Please tell me I'm not fat", "description": "If you answer “Yes,” you're idiot. Just tell me I look great."}
+        ]
+    },
+    {
+        "question": ["I'm not hungry"],
+        "answer": [
+            {"response": "I am hungry", "description": "You order whatever you want, just know that I'm going to be picking off your plate, and I don't want you to give me any shit about it."}
+        ]
+    },
+    {
+        "question": ["That guy is hot"],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    },
+    {
+        "question": [""],
+        "answer": [
+            {"response": "", "description": ""}
+        ]
+    }
+ ]   
+}
